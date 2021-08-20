@@ -1,0 +1,23 @@
+RESULTS
+
+INFO: Constructing grapheme and phoneme FARs
+INFO: Processed 15,358 examples
+INFO: Constructing covering grammar
+INFO: 29 unique graphemes
+INFO: 34 unique phones
+INFO: Covering grammar has 1,049 arcs
+INFO: Training aligner
+INFO: Beginning random starts
+INFO: Random start 8; likelihood: -10.140500; time elapsed: 428s
+INFO: Random start 7; likelihood: -10.148700; time elapsed: 442s
+INFO: Random start 3; likelihood: -10.179100; time elapsed: 462s
+INFO: Random start 9; likelihood: -10.200700; time elapsed: 492s
+INFO: Random start 10; likelihood: -9.599480; time elapsed: 498s
+INFO: Random start 5; likelihood: -10.133500; time elapsed: 500s
+INFO: Random start 11; likelihood: -9.564050; time elapsed: 520s
+INFO: Random start 1; likelihood: -9.424110; time elapsed: 522s
+INFO: Random start 4; likelihood: -10.206800; time elapsed: 527s
+INFO: Random start 6; likelihood: -9.456180; time elapsed: 529s
+INFO: Random start 2; likelihood: -9.481060; time elapsed: 532s
+INFO: Random start 12; likelihood: -9.457310; time elapsed: 534s
+INFO: Best likelihood: -10.206800
